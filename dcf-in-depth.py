@@ -9,7 +9,7 @@ print("***DISCLAIMER***")
 print()
 
 from fredapi import Fred
-fred = Fred(api_key='d355e18cbdd60307c8100671ba120dd5')
+fred = Fred(api_key='YOUR API KEY')
 import yfinance as yf
 import pandas as pd
 
